@@ -13,6 +13,7 @@ The following are the technologies that are used in this lab. Any prior knowledg
 ## Important Links
 
 • Access to AWS Console - https://console.aws.amazon.com/
+
 • Link to Raw Image Dataset - https://drive.google.com/open?id=1tJDaAS3Gbb6BKqYMohn4GQaPL2Z97N_H
 
 ## Repository Contents
